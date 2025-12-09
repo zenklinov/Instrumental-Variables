@@ -8,7 +8,7 @@ This repository contains a Jupyter Notebook demonstrating **Instrumental Variabl
 
 The project simulates a classic econometric scenario: estimating the causal return of **Education** on **Income** while controlling for unobserved **Ability** (Confounding Variable). It demonstrates how standard OLS regression fails in the presence of endogeneity and how IV fixes this bias.
 
-## 📉 The Problem: Endogeneity
+##  The Problem: Endogeneity
 
 In causal inference, we often want to measure the effect of a treatment $X$ (Education) on an outcome $Y$ (Income). A standard OLS regression assumes:
 
