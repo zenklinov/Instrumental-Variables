@@ -20,7 +20,7 @@ However, in the real world, **Ability** (which is hard to measure) affects *both
 
 This creates **Endogeneity** ($Cov(X, \epsilon) \neq 0$). Because we cannot control for Ability, OLS attributes the income boost from Ability to Education, resulting in an **Overestimation Bias**.
 
-## 🛠 The Solution: Instrumental Variables
+##  The Solution: Instrumental Variables
 
 To solve this, we use an **Instrument ($Z$)**. In this analysis, we use **Distance to the nearest college**.
 
